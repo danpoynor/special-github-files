@@ -1,1 +1,1 @@
-# Test Repo Containing Some Special Files
+# Example Repo Containing Some Special GitHub Files
