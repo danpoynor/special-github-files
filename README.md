@@ -2,11 +2,14 @@
 
 ## Description
 
-TODO
+A collection of [GitHub](https://github.com) repo files that briefly explains their use.
 
 ## Usage
 
-TODO
+- Read through this READMEs [Files](#files) section to discover each of their uses.
+- Investigate the Further Reading links to learn more about each file.
+- Copy/paste from the examples as needed.
+- If you find this repo interesting star it for future reference.
 
 ## Contributing workflow
 
@@ -34,25 +37,31 @@ TODO
 ---
 ---
 
-## Files Descriptions
+## Files
 
 ---
----
 
-### :page_facing_up: .gitignore
+### :page_facing_up: `.gitignore`
 
-#### Description
+<details>
+<summary>Description</summary>
 
 You can create a .gitignore file in your repository's root directory to tell Git which files and directories to ignore when you make a commit. To share the ignore rules with other users who clone the repository, commit the .gitignore file in to your repository.
 
 GitHub maintains an official list of recommended .gitignore files for many popular operating systems, environments, and languages in the github/gitignore public repository. You can also use gitignore.io to create a .gitignore file for your operating system, programming language, or IDE. For more information, see "[github/gitignore](https://github.com/github/gitignore)" and the "[gitignore.io](https://www.gitignore.io/)" site.
 
-#### File location in the repository
+</details>
+
+<details>
+<summary>File location in the repository</summary>
 
 - root
 - any subdirectory
 
-#### Examples
+</details>
+
+<details>
+<summary>Examples</summary>
 
 ```text
 # Compiled source #
@@ -241,66 +250,99 @@ Use your favorite text editor to open the file called .git/info/exclude within t
 2. Navigate to the location of your Git repository.
 3. Using your favorite text editor, open the file *.git/info/exclude*.
 
-#### Further reading
+</details>
+
+<details>
+<summary>Further reading</summary>
 
 - [GitHub Docs: Ignoring files](https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files)
 - [git-scm.com/docs/gitignore](https://git-scm.com/docs/gitignore)
 
+</details>
+
 ---
 
-### :page_facing_up: .nojekyll
+### :page_facing_up: `.nojekyll`
 
-#### Description
+<details>
+<summary>Description</summary>
 
 GitHub Pages will use Jekyll to build your site by default. If you want to use a static site generator other than Jekyll, disable the Jekyll build process by creating an empty file called `.nojekyll` in the root of your publishing source, then follow your static site generator's instructions to build your site locally.
 
 GitHub Pages does not support server-side languages such as PHP, Ruby, or Python.
 
-#### File location in the repository
+</details>
+
+<details>
+<summary>File location in the repository</summary>
 
 - root
 
-#### Further reading
+</details>
+
+<details>
+<summary>Further reading</summary>
 
 - [GitHub Docs: About GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
 
+</details>
+
 ---
 
-### :page_facing_up: CITATION.cff
+### :page_facing_up: `CITATION.cff`
 
-#### Description
+<details>
+<summary>Description</summary>
 
 You can add a CITATION.cff file to the root of a repository to let others know how you would like them to cite your work. The citation file format is plain text with human- and machine-readable citation information.
 
-#### File location in the repository
+</details>
+
+<details>
+<summary>File location in the repository</summary>
 
 TODO
 
-#### Examples
+</details>
+
+<details>
+<summary>Examples</summary>
 
 TODO
 
-#### Further reading
+</details>
+
+<details>
+<summary>Further reading</summary>
 
 - [GitHub Docs: About CITATION files](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files)
 
+</details>
+
 ---
 
-### :page_facing_up: CODEOWNERS
+### :page_facing_up: `CODEOWNERS`
 
-#### Description
+<details>
+<summary>Description</summary>
 
 Repository administrators can define exactly which people and teams need to review projects using the CODEOWNERS file. This feature automatically assigns reviewers based on Code Owners when a pull request changes any owned files, using the same syntax as the .gitignore file.
 
 Use the CODEOWNERS file to ensure that changes to specific areas of the codebase are always reviewed by those with the most expertise.
 
-#### File location in the repository
+</details>
+
+<details>
+<summary>File location in the repository</summary>
 
 - root
 - docs/
 - .github/
 
-#### Examples
+</details>
+
+<details>
+<summary>Examples</summary>
 
 ```text
 # @global-owner1 and @global-owner2 will be requested for
@@ -336,36 +378,54 @@ docs/*  docs@example.com
 /apps/ @example-org/content-team
 ```
 
-#### Further reading
+</details>
+
+<details>
+<summary>Further reading</summary>
 
 - [GitHub Docs: About code owners](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-code-owners)
 - [GitHub Docs: Managing code review assignment for your team](https://docs.github.com/en/organizations/organizing-members-into-teams/managing-code-review-assignment-for-your-team)
 
+</details>
+
 ---
 
-### :page_facing_up: CODE_OF_CONDUCT.md
+### :page_facing_up: `CODE_OF_CONDUCT.md`
 
-#### Description
+<details>
+<summary>Description</summary>
 
 A code of conduct defines standards for how to engage in a community. It signals an inclusive environment that respects all contributions. It also outlines procedures for addressing problems between members of your project's community. For more information on why a code of conduct defines standards and expectations for how to engage in a community, see the [Open Source Guide](https://opensource.guide/code-of-conduct/).
 
-#### File location in the repository
+</details>
+
+<details>
+<summary>File location in the repository</summary>
 
 TODO
 
-#### Examples
+</details>
+
+<details>
+<summary>Examples</summary>
 
 TODO
 
-#### Further reading
+</details>
+
+<details>
+<summary>Further reading</summary>
 
 - [GitHub Docs: Adding a code of conduct to your project](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project)
 
+</details>
+
 ---
 
-### :page_facing_up: CONTRIBUTING.md
+### :page_facing_up: `CONTRIBUTING.md`
 
-#### Description
+<details>
+<summary>Description</summary>
 
 To help your project contributors do good work, you can add a file with contribution guidelines to your project repository's root, `docs`, or `.github` folder. When someone opens a pull request or creates an issue, they will see a link to that file. The link to the contributing guidelines also appears on your repository's `contribute` page.
 
@@ -375,18 +435,27 @@ For contributors, the guidelines help them verify that they're submitting well-f
 
 For both owners and contributors, contribution guidelines save time and hassle caused by improperly created pull requests or issues that have to be rejected and re-submitted.
 
-#### File location in the repository
+</details>
+
+<details>
+<summary>File location in the repository</summary>
 
 - root
 - docs/
 - .github/
 
-#### Examples
+</details>
+
+<details>
+<summary>Examples</summary>
 
 - [github/docs Contributing to this repository](https://github.com/github/docs/blob/main/CONTRIBUTING.md)
 - [github/docs/contributing/ Contributing to github/docs](https://github.com/github/docs/tree/main/contributing)
 
-#### Further reading
+</details>
+
+<details>
+<summary>Further reading</summary>
 
 - [GitHub Docs: Setting guidelines for repository contributors](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
 - [GitHub Docs: Encouraging helpful contributions to your project with labels](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/encouraging-helpful-contributions-to-your-project-with-labels)
@@ -396,19 +465,211 @@ For both owners and contributors, contribution guidelines save time and hassle c
 - [GitHub Docs: Moderating comments and conversations](https://docs.github.com/en/communities/moderating-comments-and-conversations)
 - [Open Source Guides: Building Welcoming Communities](https://opensource.guide/building-community/)
 
+</details>
+
 ---
 
-### :page_facing_up: FUNDING.yml
+### :page_facing_up: `ISSUE_TEMPLATE.md`
 
-#### Description
-
- FUNDING file displays a sponsor button in your repository to increase the visibility of funding options for your open source project. For more information.
-
-#### File location in the repository
+<details>
+<summary>Description</summary>
 
 TODO
 
-#### Examples
+</details>
+
+<details>
+<summary>File location in the repository</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>Examples</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>Further reading</summary>
+
+TODO
+
+</details>
+
+---
+
+### :page_facing_up: `LICENSE` or `LICENSE.md`
+
+<details>
+<summary>Description</summary>
+
+You can include an open source license in your repository to make it easier for other people to contribute.
+
+If you include a detectable license in your repository, people who visit your repository will see it at the top of the repository page.
+
+</details>
+
+<details>
+<summary>File location in the repository</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>Examples</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>Further reading</summary>
+
+- [GitHub Docs: Adding a license to a repository](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository)
+- [GitHub Docs: Licensing a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/licensing-a-repository)
+
+</details>
+
+---
+
+### :page_facing_up: `README.md`
+
+<details>
+<summary>Description</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>File location in the repository</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>Examples</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>Further reading</summary>
+
+- [GitHub Docs: About READMEs](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-readmes)
+
+</details>
+
+---
+
+### :page_facing_up: `SECURITY.md`
+
+<details>
+<summary>Description</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>File location in the repository</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>Examples</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>Further reading</summary>
+
+- [GitHub Docs: Adding a security policy to your repository](https://docs.github.com/en/code-security/getting-started/adding-a-security-policy-to-your-repository)
+- [GitHub Docs: Creating a default community health file](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
+
+</details>
+
+---
+
+### :page_facing_up: `SUPPORT.md`
+
+<details>
+<summary>Description</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>File location in the repository</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>Examples</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>Further reading</summary>
+
+- [GitHub Docs: Adding support resources to your project](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-support-resources-to-your-project)
+- [GitHub Docs: Creating a default community health file](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
+
+</details>
+
+---
+
+### :open_file_folder: `.github/`
+
+<details>
+<summary>Description</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>Further reading</summary>
+
+TODO
+
+</details>
+
+---
+
+### :page_facing_up: `.github/FUNDING.yml`
+
+<details>
+<summary>Description</summary>
+
+FUNDING file displays a sponsor button in your repository to increase the visibility of funding options for your open source project.
+
+</details>
+
+<details>
+<summary>File location in the repository</summary>
+
+Automatically generated at `.github/FUNDING.yml`
+
+</details>
+
+<details>
+<summary>Examples</summary>
 
 ```text
 github: [octocat, surftocat]
@@ -417,171 +678,65 @@ tidelift: npm/octo-package
 custom: ["https://www.paypal.me/octocat", octocat.com]
 ```
 
-#### Further reading
+</details>
+
+<details>
+<summary>Further reading</summary>
 
 - [GitHub Docs: Displaying a sponsor button in your repository](https://docs.github.com/en/github/administering-a-repository/managing-repository-settings/displaying-a-sponsor-button-in-your-repository)
 
----
-
-### :page_facing_up: ISSUE_TEMPLATE.md
-
-#### Description
-
-TODO
-
-#### File location in the repository
-
-TODO
-
-#### Examples
-
-TODO
-
-#### Further reading
-
-TODO
+</details>
 
 ---
 
-### :page_facing_up: LICENSE or LICENSE.md
+### :open_file_folder: `.github/ISSUE_TEMPLATE/`
 
-#### Description
-
-You can include an open source license in your repository to make it easier for other people to contribute.
-
-If you include a detectable license in your repository, people who visit your repository will see it at the top of the repository page.
-
-#### File location in the repository
-
-TODO
-
-#### Examples
-
-TODO
-
-#### Further reading
-
-- [GitHub Docs: Adding a license to a repository](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository)
-- [GitHub Docs: Licensing a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/licensing-a-repository)
-
----
-
-### :page_facing_up: README.md
-
-#### Description
-
-TODO
-
-#### File location in the repository
-
-TODO
-
-#### Examples
-
-TODO
-
-#### Further reading
-
-- [GitHub Docs: About READMEs](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-readmes)
-
----
-
-### :page_facing_up: SECURITY.md
-
-#### Description
-
-TODO
-
-#### File location in the repository
-
-TODO
-
-#### Examples
-
-TODO
-
-#### Further reading
-
-- [GitHub Docs: Adding a security policy to your repository](https://docs.github.com/en/code-security/getting-started/adding-a-security-policy-to-your-repository)
-- [GitHub Docs: Creating a default community health file](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
-
----
-
-### :page_facing_up: SUPPORT.md
-
-#### Description
-
-TODO
-
-#### File location in the repository
-
-TODO
-
-#### Examples
-
-TODO
-
-#### Further reading
-
-- [GitHub Docs: Adding support resources to your project](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-support-resources-to-your-project)
-- [GitHub Docs: Creating a default community health file](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
-
----
-
-### :open_file_folder: .github/
-
-Description
-
-TODO
-
-#### Further reading
-
-TODO
-
----
-
-#### :open_file_folder: ISSUE_TEMPLATE/
-
-Description: 
+<details>
+<summary>Description</summary>
 
 Issue templates and their configuration file must be in a folder called `.github/ISSUE_TEMPLATE`
 
-#### Further reading
+</details>
+
+<details>
+<summary>Further reading</summary>
 
 TODO
+
+</details>
 
 ---
 
-##### :page_facing_up: bug_report.md
+### :page_facing_up: `.github/ISSUE_TEMPLATE/bug_report.md`
 
-Description
+<details>
+<summary>Description</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>Further reading</summary>
 
 TODO
 
-#### Further reading
-
-TODO
+</details>
 
 ---
 
-##### :page_facing_up: feature_request.md
+### :page_facing_up: `.github/ISSUE_TEMPLATE/feature_request.md`
 
-Description
-
-TODO
-
-#### Further reading
+<details>
+<summary>Description</summary>
 
 TODO
 
----
+</details>
 
-#### :page_facing_up: FUNDING.yml
-
-Description
-
-TODO
-
-#### Further reading
+<details>
+<summary>Further reading</summary>
 
 TODO
+
+</details>
