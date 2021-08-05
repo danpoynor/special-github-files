@@ -1,84 +1,108 @@
-# Example Repo Containing Some Special GitHub Files
+# WIP Example Repo Containing Some Special GitHub Files
 
-## .gitignore
+## Description
 
-Description: TC
+TC
 
-Documentation: TC
+## Usage
 
-## .nojekyll
+TC
 
-Description: TC
+## Contributing
 
-Documentation: TC
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## CITATION.cff
+Use [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli) to check for common markdown style inconsistency.
 
-Description: TC
+## Support
 
-Documentation: TC
+TC
 
-## CODEOWNERS
+## License
 
-Description: TC
+TC
 
-Documentation: TC
+## Files Descriptions
 
-## CODE_OF_CONDUCT.md
-
-Description: TC
-
-Documentation: TC
-
-## CONTRIBUTING.md
+### .gitignore
 
 Description: TC
 
 Documentation: TC
 
-## ISSUE_TEMPLATE.md
+### .nojekyll
 
 Description: TC
 
 Documentation: TC
 
-## README.md
+### CITATION.cff
 
 Description: TC
 
 Documentation: TC
 
-## SECURITY.md
+### CODEOWNERS
 
 Description: TC
 
 Documentation: TC
 
-## .github/
+### CODE_OF_CONDUCT.md
 
 Description: TC
 
 Documentation: TC
 
-### ISSUE_TEMPLATE/
+### CONTRIBUTING.md
 
 Description: TC
 
 Documentation: TC
 
-#### bug_report.md
+### ISSUE_TEMPLATE.md
 
 Description: TC
 
 Documentation: TC
 
-#### feature_request.md
+### README.md
 
 Description: TC
 
 Documentation: TC
 
-### FUNDING.yml
+### SECURITY.md
+
+Description: TC
+
+Documentation: TC
+
+### .github/
+
+Description: TC
+
+Documentation: TC
+
+#### ISSUE_TEMPLATE/
+
+Description: TC
+
+Documentation: TC
+
+##### bug_report.md
+
+Description: TC
+
+Documentation: TC
+
+##### feature_request.md
+
+Description: TC
+
+Documentation: TC
+
+#### FUNDING.yml
 
 Description: TC
 
