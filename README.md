@@ -11,20 +11,17 @@ A collection of [GitHub](https://github.com) repo files that briefly explains th
 - Copy/paste from the examples as needed.
 - If you find this repo interesting star it for future reference.
 
-## Contributing workflow
+## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Please check out the [contributing guidelines](CONTRIBUTING.md) for workflow and other info.
 
-Use [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli) to check for common markdown style inconsistency.
+## Code of Conduct
 
-Here’s how we suggest you go about proposing a change to this project:
+Please check out the [code of conduct](CODE_OF_CONDUCT.md).
 
-1. [Fork this project](https://docs.github.com/en/get-started/quickstart/fork-a-repo) to your account.
-2. [Create a branch](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository) for the change you intend to make.
-3. Make your changes to your fork.
-4. [Create a pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) from your fork’s branch to our master branch.
+## SUPPORT
 
-Using the web-based interface to make changes is fine too, and will help you by automatically forking the project and prompting to send a pull request too.
+Please check [support](SUPPORT.md) for potential updates.
 
 ## FAQ
 
@@ -38,7 +35,7 @@ Nope. Just use what you need.
 <details>
   <summary>When should I name the file ending in .md?</summary>
 
-Only files that end in `.md` will be rendered using markdown. Whenever you want the file to be visually rendered using feature like headings, sections, lists, clickable links, bold, italic, ... you should use `.md`.
+Whenever you want the file to be visually rendered using [Markdown](https://guides.github.com/features/mastering-markdown/) features like headings, sections, lists, code example syntax coloring, clickable links, bold, italic, ... you should use `.md`.
 
 </details>
 
