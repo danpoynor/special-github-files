@@ -2,7 +2,7 @@
 
 ## Description
 
-A collection of [GitHub](https://github.com) repo files that briefly explains their use.
+A collection of [GitHub](https://github.com) repo files along with brief explinations and links to deeper learnings.
 
 ## Usage
 
