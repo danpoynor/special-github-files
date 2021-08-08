@@ -26,13 +26,35 @@ Here’s how we suggest you go about proposing a change to this project:
 
 Using the web-based interface to make changes is fine too, and will help you by automatically forking the project and prompting to send a pull request too.
 
-## Support
+## FAQ
 
-TODO
+<details>
+  <summary>Are all these files necessary?</summary>
 
-## License
+Nope. Just use what you need.
 
-TODO
+</details>
+
+<details>
+  <summary>When should I name the file ending in .md?</summary>
+
+Only files that end in `.md` will be rendered using markdown. Whenever you want the file to be visually rendered using feature like headings, sections, lists, clickable links, bold, italic, ... you should use `.md`.
+
+</details>
+
+<details>
+  <summary>What about Jekyll files?</summary>
+
+Adding these is currently under consideration.
+
+</details>
+
+<details>
+  <summary>Why are filenames in all caps?</summary>
+
+To avoid confusion with other files and to make them more noticeable as being a special file.
+
+</details>
 
 ---
 ---
@@ -44,12 +66,12 @@ TODO
 ### :page_facing_up: `.gitignore`
 
 <details>
-<summary>Description</summary>
+  <summary>Description</summary>
 
-You can create a .gitignore file in your repository's root directory to tell Git which files and directories to ignore when you make a commit. To share the ignore rules with other users who clone the repository, commit the .gitignore file in to your repository.
+  You can create a .gitignore file in your repository's root directory to tell Git which files and directories to ignore when you make a commit. To share the ignore rules with other users who clone the repository, commit the .gitignore file in to your repository.
 
-GitHub maintains an official list of recommended .gitignore files for many popular operating systems, environments, and languages in the github/gitignore public repository. You can also use gitignore.io to create a .gitignore file for your operating system, programming language, or IDE. For more information, see "[github/gitignore](https://github.com/github/gitignore)" and the "[gitignore.io](https://www.gitignore.io/)" site.
-
+  GitHub maintains an official list of recommended .gitignore files for many popular operating systems, environments, and languages in the github/gitignore public repository. You can also use gitignore.io to create a .gitignore file for your operating system, programming language, or IDE. For more information, see "[github/gitignore](https://github.com/github/gitignore)" and the "[gitignore.io](https://www.gitignore.io/)" site.
+  
 </details>
 
 <details>
@@ -269,7 +291,10 @@ Use your favorite text editor to open the file called .git/info/exclude within t
 
 GitHub Pages will use Jekyll to build your site by default. If you want to use a static site generator other than Jekyll, disable the Jekyll build process by creating an empty file called `.nojekyll` in the root of your publishing source, then follow your static site generator's instructions to build your site locally.
 
-GitHub Pages does not support server-side languages such as PHP, Ruby, or Python.
+Notes
+
+- Prevents GitHub Pages from ignoring files that begin with an underscore.
+- GitHub Pages does not support server-side languages such as PHP, Ruby, or Python.
 
 </details>
 
@@ -284,6 +309,88 @@ GitHub Pages does not support server-side languages such as PHP, Ruby, or Python
 <summary>Further reading</summary>
 
 - [GitHub Docs: About GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
+
+</details>
+
+---
+
+### :page_facing_up: `ACKNOWLEDGMENTS.md.md`
+
+<details>
+<summary>Description</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>Naming</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>File location in the repository</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>Examples</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>Further reading</summary>
+
+TODO
+
+</details>
+
+---
+
+### :page_facing_up: `CHANGELOG.md`
+
+<details>
+<summary>Description</summary>
+
+Notes
+
+- Might also be named CHANGES, HISTORY, NEWS, RELEASES, VERSIONS, etc.
+
+</details>
+
+<details>
+<summary>Naming</summary>
+
+- CHANGELOG
+- CHANGELOG.txt
+- CHANGELOG.md
+
+</details>
+
+<details>
+<summary>File location in the repository</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>Examples</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>Further reading</summary>
+
+- [GitHub Docs: About CITATION files](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files)
 
 </details>
 
@@ -469,6 +576,44 @@ For both owners and contributors, contribution guidelines save time and hassle c
 
 ---
 
+### :page_facing_up: `CONTRIBUTORS.md`
+
+<details>
+<summary>Description</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>Naming</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>File location in the repository</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>Examples</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>Further reading</summary>
+
+TODO
+
+</details>
+
+---
 ### :page_facing_up: `ISSUE_TEMPLATE.md`
 
 <details>
@@ -501,7 +646,7 @@ TODO
 
 ---
 
-### :page_facing_up: `LICENSE` or `LICENSE.md`
+### :page_facing_up: `LICENSE`
 
 <details>
 <summary>Description</summary>
@@ -509,6 +654,19 @@ TODO
 You can include an open source license in your repository to make it easier for other people to contribute.
 
 If you include a detectable license in your repository, people who visit your repository will see it at the top of the repository page.
+
+Notes
+
+- If you go to "Add file" dropdown in your repo to create a new file and start naming with "License", a button will appear to the right for you to select a license template.
+
+</details>
+
+<details>
+<summary>Naming</summary>
+
+- LICENSE (most common)
+- ICENSE.md
+- ...
 
 </details>
 
@@ -546,9 +704,19 @@ TODO
 </details>
 
 <details>
+<summary>Naming</summary>
+
+- README
+- README.txt
+- README.md (most common)
+- ...
+
+</details>
+
+<details>
 <summary>File location in the repository</summary>
 
-TODO
+- root
 
 </details>
 
