@@ -386,7 +386,7 @@ TODO
 <details>
 <summary>Further reading</summary>
 
-- [GitHub Docs: About CITATION files](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files)
+TODO
 
 </details>
 
