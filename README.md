@@ -798,6 +798,45 @@ TODO
 
 ---
 
+### :page_facing_up: `UPGRADING.md`
+
+<details>
+<summary>Description</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>Naming</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>File location in the repository</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>Examples</summary>
+
+TODO
+
+</details>
+
+<details>
+<summary>Further reading</summary>
+
+TODO
+
+</details>
+
+---
+
 ### :open_file_folder: `.github/`
 
 <details>
