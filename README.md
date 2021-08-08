@@ -6,7 +6,7 @@ A collection of [GitHub](https://github.com) repo files along with brief explina
 
 ## Usage
 
-- Read through this READMEs [Files](#files) section to discover each of their uses.
+- Read through this READMEs [Special Files](#special-files) section to discover each of their uses.
 - Investigate the Further Reading links to learn more about each file.
 - Copy/paste from the examples as needed.
 - If you find this repo interesting star it for future reference.
@@ -55,7 +55,7 @@ To avoid confusion with other files and to make them more noticeable as being a 
 
 ---
 
-## Files
+## Special Files
 
 ---
 
@@ -386,7 +386,7 @@ TODO
 <details>
 <summary>Further reading</summary>
 
-- [GitHub Docs: About CITATION files](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files)
+TODO
 
 </details>
 
