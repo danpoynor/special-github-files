@@ -298,7 +298,7 @@ Use your favorite text editor to open the file called .git/info/exclude within t
 </details>
 
 <div align="right">
-  <a href="#special-files">Back to Special Files list :point_up:</a>
+  <a href="#special-files">Back to Special Files :point_up:</a>
 </div>
 
 ### :page_facing_up: `.nojekyll`
@@ -330,7 +330,7 @@ Notes
 </details>
 
 <div align="right">
-  <a href="#special-files">Back to Special Files list :point_up:</a>
+  <a href="#special-files">Back to Special Files :point_up:</a>
 </div>
 
 ### :page_facing_up: `ACKNOWLEDGMENTS.md`
@@ -371,7 +371,7 @@ TODO
 </details>
 
 <div align="right">
-  <a href="#special-files">Back to Special Files list :point_up:</a>
+  <a href="#special-files">Back to Special Files :point_up:</a>
 </div>
 
 ### :page_facing_up: `CHANGELOG.md`
@@ -416,7 +416,7 @@ TODO
 </details>
 
 <div align="right">
-  <a href="#special-files">Back to Special Files list :point_up:</a>
+  <a href="#special-files">Back to Special Files :point_up:</a>
 </div>
 
 ### :page_facing_up: `CITATION.cff`
@@ -450,7 +450,7 @@ TODO
 </details>
 
 <div align="right">
-  <a href="#special-files">Back to Special Files list :point_up:</a>
+  <a href="#special-files">Back to Special Files :point_up:</a>
 </div>
 
 ### :page_facing_up: `CODEOWNERS`
@@ -521,7 +521,7 @@ docs/*  docs@example.com
 </details>
 
 <div align="right">
-  <a href="#special-files">Back to Special Files list :point_up:</a>
+  <a href="#special-files">Back to Special Files :point_up:</a>
 </div>
 
 ### :page_facing_up: `CODE_OF_CONDUCT.md`
@@ -555,7 +555,7 @@ TODO
 </details>
 
 <div align="right">
-  <a href="#special-files">Back to Special Files list :point_up:</a>
+  <a href="#special-files">Back to Special Files :point_up:</a>
 </div>
 
 ### :page_facing_up: `CONTRIBUTING.md`
@@ -604,7 +604,7 @@ For both owners and contributors, contribution guidelines save time and hassle c
 </details>
 
 <div align="right">
-  <a href="#special-files">Back to Special Files list :point_up:</a>
+  <a href="#special-files">Back to Special Files :point_up:</a>
 </div>
 
 ### :page_facing_up: `CONTRIBUTORS.md`
@@ -645,7 +645,7 @@ TODO
 </details>
 
 <div align="right">
-  <a href="#special-files">Back to Special Files list :point_up:</a>
+  <a href="#special-files">Back to Special Files :point_up:</a>
 </div>
 
 ### :page_facing_up: `ISSUE_TEMPLATE.md`
@@ -679,7 +679,7 @@ TODO
 </details>
 
 <div align="right">
-  <a href="#special-files">Back to Special Files list :point_up:</a>
+  <a href="#special-files">Back to Special Files :point_up:</a>
 </div>
 
 ### :page_facing_up: `LICENSE`
@@ -729,7 +729,7 @@ TODO
 </details>
 
 <div align="right">
-  <a href="#special-files">Back to Special Files list :point_up:</a>
+  <a href="#special-files">Back to Special Files :point_up:</a>
 </div>
 
 ### :page_facing_up: `README.md`
@@ -773,7 +773,7 @@ TODO
 </details>
 
 <div align="right">
-  <a href="#special-files">Back to Special Files list :point_up:</a>
+  <a href="#special-files">Back to Special Files :point_up:</a>
 </div>
 
 ### :page_facing_up: `SECURITY.md`
@@ -808,7 +808,7 @@ TODO
 </details>
 
 <div align="right">
-  <a href="#special-files">Back to Special Files list :point_up:</a>
+  <a href="#special-files">Back to Special Files :point_up:</a>
 </div>
 
 ### :page_facing_up: `SUPPORT.md`
@@ -843,7 +843,7 @@ TODO
 </details>
 
 <div align="right">
-  <a href="#special-files">Back to Special Files list :point_up:</a>
+  <a href="#special-files">Back to Special Files :point_up:</a>
 </div>
 
 ### :page_facing_up: `UPGRADING.md`
@@ -884,7 +884,7 @@ TODO
 </details>
 
 <div align="right">
-  <a href="#special-files">Back to Special Files list :point_up:</a>
+  <a href="#special-files">Back to Special Files :point_up:</a>
 </div>
 
 ### :open_file_folder: `.github/`
@@ -904,7 +904,7 @@ TODO
 </details>
 
 <div align="right">
-  <a href="#special-files">Back to Special Files list :point_up:</a>
+  <a href="#special-files">Back to Special Files :point_up:</a>
 </div>
 
 ### :page_facing_up: `.github/FUNDING.yml`
@@ -943,7 +943,7 @@ custom: ["https://www.paypal.me/octocat", octocat.com]
 </details>
 
 <div align="right">
-  <a href="#special-files">Back to Special Files list :point_up:</a>
+  <a href="#special-files">Back to Special Files :point_up:</a>
 </div>
 
 ### :page_facing_up: `.github/ISSUE_TEMPLATE/bug_report.md`
@@ -963,7 +963,7 @@ TODO
 </details>
 
 <div align="right">
-  <a href="#special-files">Back to Special Files list :point_up:</a>
+  <a href="#special-files">Back to Special Files :point_up:</a>
 </div>
 
 ### :page_facing_up: `.github/ISSUE_TEMPLATE/feature_request.md`
@@ -983,5 +983,5 @@ TODO
 </details>
 
 <div align="right">
-  <a href="#special-files">Back to Special Files list :point_up:</a>
+  <a href="#special-files">Back to Special Files :point_up:</a>
 </div>
