@@ -13,15 +13,15 @@ A collection of [GitHub](https://github.com) repo files along with brief explina
 
 ## Contributing
 
-Please check out the [contributing guidelines](CONTRIBUTING.md) for workflow and other info.
+Please check [contributing guidelines](CONTRIBUTING.md).
 
 ## Code of Conduct
 
-Please check out the [code of conduct](CODE_OF_CONDUCT.md).
+Please check [code of conduct](CODE_OF_CONDUCT.md).
 
 ## SUPPORT
 
-Please check [support](SUPPORT.md) for potential updates.
+Please check [support](SUPPORT.md).
 
 ## FAQ
 
@@ -56,6 +56,25 @@ To avoid confusion with other files and to make them more noticeable as being a 
 ---
 
 ## Special Files
+
+- [.github/FUNDING.yml](#github-funding-yml)
+- [.github/ISSUE_TEMPLATE/bug_report.md](#github-issue_template/bug_report-md)
+- [.github/ISSUE_TEMPLATE/feature_request.md](#github-issue_template/feature_request-md)
+- [.gitignore](#page_facing_up-gitignore)
+- [.nojekyll](#page_facing_up-nojekyll)
+- [ACKNOWLEDGMENTS.md](#page_facing_up-acknowledgmentsmd)
+- [CHANGELOG.md](#page_facing_up-changelogmd)
+- [CITATION.cff](#page_facing_up-citationcff)
+- [CODEOWNERS](#page_facing_up-codeowners)
+- [CODE_OF_CONDUCT.md](#page_facing_up-code_of_conductmd)
+- [gitigCONTRIBUTINGnore.md](#contributingmd)
+- [CONTRIBUTORS.md](#page_facing_up-contributorsmd)
+- [ISSUE_TEMPLATE.md](#page_facing_up-issue_templatemd)
+- [LICENSE](#page_facing_up-license)
+- [README.md](#page_facing_up-readmemd)
+- [SECURITY.md](#page_facing_up-securitymd)
+- [SUPPORT.md](#page_facing_up-supportmd)
+- [UPGRADING.md](#page_facing_up-upgradingmd)
 
 ### :page_facing_up: `.gitignore`
 
