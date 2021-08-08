@@ -1,4 +1,4 @@
-# WIP Example Repo Containing Some Special GitHub Files
+# Special GitHub Files
 
 ## Description
 
@@ -53,7 +53,6 @@ To avoid confusion with other files and to make them more noticeable as being a 
 
 </details>
 
----
 ---
 
 ## Files
