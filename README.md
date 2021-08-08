@@ -310,7 +310,7 @@ Notes
 
 ---
 
-### :page_facing_up: `ACKNOWLEDGMENTS.md.md`
+### :page_facing_up: `ACKNOWLEDGMENTS.md`
 
 <details>
 <summary>Description</summary>
@@ -803,7 +803,7 @@ TODO
 <details>
 <summary>Description</summary>
 
-TODO
+A special directory GitHub looks in for special files.
 
 </details>
 
