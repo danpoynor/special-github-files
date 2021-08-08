@@ -57,8 +57,6 @@ To avoid confusion with other files and to make them more noticeable as being a 
 
 ## Special Files
 
----
-
 ### :page_facing_up: `.gitignore`
 
 <details>
@@ -278,8 +276,6 @@ Use your favorite text editor to open the file called .git/info/exclude within t
 
 </details>
 
----
-
 ### :page_facing_up: `.nojekyll`
 
 <details>
@@ -307,8 +303,6 @@ Notes
 - [GitHub Docs: About GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
 
 </details>
-
----
 
 ### :page_facing_up: `ACKNOWLEDGMENTS.md`
 
@@ -346,8 +340,6 @@ TODO
 TODO
 
 </details>
-
----
 
 ### :page_facing_up: `CHANGELOG.md`
 
@@ -390,8 +382,6 @@ TODO
 
 </details>
 
----
-
 ### :page_facing_up: `CITATION.cff`
 
 <details>
@@ -421,8 +411,6 @@ TODO
 - [GitHub Docs: About CITATION files](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files)
 
 </details>
-
----
 
 ### :page_facing_up: `CODEOWNERS`
 
@@ -491,8 +479,6 @@ docs/*  docs@example.com
 
 </details>
 
----
-
 ### :page_facing_up: `CODE_OF_CONDUCT.md`
 
 <details>
@@ -522,8 +508,6 @@ TODO
 - [GitHub Docs: Adding a code of conduct to your project](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project)
 
 </details>
-
----
 
 ### :page_facing_up: `CONTRIBUTING.md`
 
@@ -570,8 +554,6 @@ For both owners and contributors, contribution guidelines save time and hassle c
 
 </details>
 
----
-
 ### :page_facing_up: `CONTRIBUTORS.md`
 
 <details>
@@ -609,7 +591,6 @@ TODO
 
 </details>
 
----
 ### :page_facing_up: `ISSUE_TEMPLATE.md`
 
 <details>
@@ -639,8 +620,6 @@ TODO
 TODO
 
 </details>
-
----
 
 ### :page_facing_up: `LICENSE`
 
@@ -688,8 +667,6 @@ TODO
 
 </details>
 
----
-
 ### :page_facing_up: `README.md`
 
 <details>
@@ -730,8 +707,6 @@ TODO
 
 </details>
 
----
-
 ### :page_facing_up: `SECURITY.md`
 
 <details>
@@ -763,8 +738,6 @@ TODO
 
 </details>
 
----
-
 ### :page_facing_up: `SUPPORT.md`
 
 <details>
@@ -795,8 +768,6 @@ TODO
 - [GitHub Docs: Creating a default community health file](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
 
 </details>
-
----
 
 ### :page_facing_up: `UPGRADING.md`
 
@@ -835,8 +806,6 @@ TODO
 
 </details>
 
----
-
 ### :open_file_folder: `.github/`
 
 <details>
@@ -852,8 +821,6 @@ A special directory GitHub looks in for special files.
 TODO
 
 </details>
-
----
 
 ### :page_facing_up: `.github/FUNDING.yml`
 
@@ -890,8 +857,6 @@ custom: ["https://www.paypal.me/octocat", octocat.com]
 
 </details>
 
----
-
 ### :open_file_folder: `.github/ISSUE_TEMPLATE/`
 
 <details>
@@ -908,8 +873,6 @@ TODO
 
 </details>
 
----
-
 ### :page_facing_up: `.github/ISSUE_TEMPLATE/bug_report.md`
 
 <details>
@@ -925,8 +888,6 @@ TODO
 TODO
 
 </details>
-
----
 
 ### :page_facing_up: `.github/ISSUE_TEMPLATE/feature_request.md`
 
