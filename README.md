@@ -57,9 +57,6 @@ To avoid confusion with other files and to make them more noticeable as being a 
 
 ## Special Files
 
-- [.github/FUNDING.yml](#github-funding-yml)
-- [.github/ISSUE_TEMPLATE/bug_report.md](#github-issue_template/bug_report-md)
-- [.github/ISSUE_TEMPLATE/feature_request.md](#github-issue_template/feature_request-md)
 - [.gitignore](#page_facing_up-gitignore)
 - [.nojekyll](#page_facing_up-nojekyll)
 - [ACKNOWLEDGMENTS.md](#page_facing_up-acknowledgmentsmd)
@@ -75,6 +72,9 @@ To avoid confusion with other files and to make them more noticeable as being a 
 - [SECURITY.md](#page_facing_up-securitymd)
 - [SUPPORT.md](#page_facing_up-supportmd)
 - [UPGRADING.md](#page_facing_up-upgradingmd)
+- [.github/FUNDING.yml](#page_facing_up-githubfundingyml)
+- [.github/ISSUE_TEMPLATE/bug_report.md](#page_facing_up-githubissue_templatebug_reportmd)
+- [.github/ISSUE_TEMPLATE/feature_request.md](#page_facing_up-githubissue_templatefeature_requestmd)
 
 ### :page_facing_up: `.gitignore`
 
@@ -873,22 +873,6 @@ custom: ["https://www.paypal.me/octocat", octocat.com]
 <summary>Further reading</summary>
 
 - [GitHub Docs: Displaying a sponsor button in your repository](https://docs.github.com/en/github/administering-a-repository/managing-repository-settings/displaying-a-sponsor-button-in-your-repository)
-
-</details>
-
-### :open_file_folder: `.github/ISSUE_TEMPLATE/`
-
-<details>
-<summary>Description</summary>
-
-Issue templates and their configuration file must be in a folder called `.github/ISSUE_TEMPLATE`
-
-</details>
-
-<details>
-<summary>Further reading</summary>
-
-TODO
 
 </details>
 
