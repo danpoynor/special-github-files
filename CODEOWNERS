@@ -1,1 +1,31 @@
-* @danpoynor
+# @global-owner1 and @global-owner2 will be requested for
+# review when someone opens a pull request.
+*       @global-owner1 @global-owner2
+
+# When someone opens a pull request that only
+# modifies JS files, only @js-owner and not the global
+# owner(s) will be requested for a review.
+*.js    @js-owner
+
+# The `docs/*` pattern will match files like
+# `docs/getting-started.md` but not further nested files like
+# `docs/build-app/troubleshooting.md`.
+docs/*  docs@example.com
+
+# In this example, @octocat owns any file in the `/apps` 
+# directory in the root of your repository except for the `/apps/github` 
+# subdirectory, as its owners are left empty.
+/apps/ @octocat
+/apps/github
+
+# In this example, any change inside the `/apps` directory
+# will require approval from @doctocat or @octocat.
+/apps/ @doctocat @octocat
+
+# In this example, any change inside the `/apps` directory
+# will require approval from a member of the @example-org/content team.
+# If a member of @example-org/content opens a pull request 
+# with a change inside the `/apps` directory, their approval is implicit.
+# The team is still added as a reviewer but not a required reviewer.
+# Anyone can approve the changes.
+/apps/ @example-org/content-team

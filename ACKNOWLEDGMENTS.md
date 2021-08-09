@@ -1,3 +1,5 @@
 # Acknowledgements
 
-TODO
+The source code used for the gallery is from the Git repository located at https://github.com/...
+
+Gallery images were originally published by ...

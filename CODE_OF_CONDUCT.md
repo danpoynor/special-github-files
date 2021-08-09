@@ -1,3 +1,3 @@
 # Code of Conduct
 
-TODO
+Everyone in this community (from core members to random committers and volunteers) are asked to please act in accordance with the...
