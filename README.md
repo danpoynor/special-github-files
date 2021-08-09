@@ -1,4 +1,6 @@
-# Special GitHub Files
+<div align="center">
+
+# :sparkles: Special GitHub Files :sparkles:
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -7,6 +9,8 @@
 [![Unlicense License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+</div>
+
 ## Description
 
 A collection of [GitHub](https://github.com) repo files with brief explinations and links to deeper learnings.
@@ -14,7 +18,7 @@ A collection of [GitHub](https://github.com) repo files with brief explinations 
 ## Usage
 
 - Read through this READMEs [Special Files](#special-files) section to discover each of their uses.
-- Investigate the Further Reading links to learn more about each file.
+- Investigate the "Learn more" links to discover additional details.
 - Copy/paste from the examples if needed.
 - If you find this repo interesting :star: it for future reference.
 
@@ -37,7 +41,7 @@ Whenever you want the file to be visually rendered using [Markdown](https://guid
 <details>
   <summary>Why are filenames in all caps?</summary>
 
-To avoid confusion with other files and make them more noticeable as a "special" file.
+To avoid confusion with other files and to make them more noticeable as a "special" file.
 
 </details>
 
